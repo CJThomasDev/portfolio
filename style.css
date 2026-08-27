@@ -15,10 +15,12 @@ body {
 }
 
 .container {
-  width: 75%;
-  max-width: 1300px;
-  margin: 0 auto;
-  padding: 100px 0;
+    /*keep website the same width on every screen*/
+    width: 1200px;
+    min-width: 1200px;
+    /*keep it centered*/
+    margin: 0 auto;
+    padding: 100px 0;
 }
 
 /* HERO */
@@ -275,6 +277,5 @@ section h2 {
         text-shadow: none;
     }
 }
-
 
 

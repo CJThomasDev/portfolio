@@ -278,4 +278,19 @@ section h2 {
     }
 }
 
+/* ShakespeareGPT screenshots */
+.shakespeare-images {
+    display: flex;
+    gap: 20px;
+    margin: 25px 0;
+    flex-wrap: wrap;
+}
+
+    .shakespeare-images img {
+        width: 475px;
+        max-width: 100%;
+        height: auto;
+        border-radius: 12px;
+    }
+
 

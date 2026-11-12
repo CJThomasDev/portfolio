@@ -327,6 +327,15 @@ footer {
     }
 }
 
+.server-notice {
+    font-size: 1rem;
+    color: #b8a98a;
+    text-align: center;
+    line-height: 1.7;
+    margin: 25px 0 50px 0;
+    opacity: 0.9;
+}
+
 
 
 
